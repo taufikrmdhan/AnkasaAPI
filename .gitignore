@@ -1,0 +1,13 @@
+node_modules
+.env
+**/.drawio
+Flowchart.drawio
+**/.jfif
+**/.png
+!default.png
+**/.jpeg
+**/.jpg
+assets/airline/*
+assets/profile_pic/*
+!assets/airline/default.png
+!assets/profile_pic/default.png
