@@ -29,7 +29,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Ankasa Ticketing API is a RESTful API used in [Ankasa Ticketing Aplication](https://github.com/reijiren/Ankasa-Ticketing). This API handle user management, airline, flight tickets and booking features.
+Ankasa Ticketing API is a RESTful API used in [Ankasa Ticketing Aplication](https://ankasa-nightlabs.vercel.app). This API handle user management, airline, flight tickets and booking features.
 
 ### Project Structure
 ```
@@ -41,7 +41,7 @@ Ankasa Ticketing API is a RESTful API used in [Ankasa Ticketing Aplication](http
        |── helper                                 # Cloudinary setting, Env setting, JWT generation and response
        |── middleware                             # Middleware configuration
        |── model                                  # Database query model
-       |── routes                                 # API Endpoint routes
+       |── router                                 # API Endpoint routes
    |── .env                                       # Environment variables
    |── .gitignore                                 # Files that should be ignored  
    |── Ankasa Ticketing.postman_collection.json   # Postman Documentation
@@ -118,5 +118,5 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- RELATED PROJECT -->
 ## Related Project
-This API is used in [Ankasa Ticketing Application](https://github.com/reijiren/Ankasa-Ticketing/tree/main/ankasa-ticketing).
+This API is used in [Ankasa Ticketing Application](https://ankasa-nightlabs.vercel.app).
 * [View Documentation](https://github.com/reijiren/AnkasaAPP)
