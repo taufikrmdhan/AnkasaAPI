@@ -119,4 +119,4 @@ Contributions are what make the open source community such an amazing place to b
 <!-- RELATED PROJECT -->
 ## Related Project
 This API is used in [Ankasa Ticketing Application](https://ankasa-nightlabs.vercel.app).
-* [View Documentation](https://github.com/reijiren/AnkasaAPP)
+* [View Documentation](https://github.com/taufikrmdhan/AnkasaAPP)
